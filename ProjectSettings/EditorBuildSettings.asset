@@ -20,4 +20,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/Unity4-7/ExploreScene.unity
     guid: d995609a921dcc74b9109c7d6f8b9328
+  - enabled: 1
+    path: Assets/Scene/Unity8-9/Enemy.unity
+    guid: ee4e9f5503cd7f740be0aa9586923fad
+  - enabled: 1
+    path: Assets/Scene/Unity10/Encount.unity
+    guid: bfa245e382a8a584892010ea6b3b9f47
+  - enabled: 1
+    path: Assets/Scene/Unity11-12/AttackAnimation.unity
+    guid: c4c411db87f218a438baae71d15f7380
+  - enabled: 1
+    path: Assets/Scene/Unity13-14/BGM.unity
+    guid: 4159ad38df4fc8a42bb04a170a757a11
+  - enabled: 1
+    path: Assets/Scene/Unity15/SE.unity
+    guid: 788ad0101c044564eb5e423c83cf51a3
   m_configObjects: {}
