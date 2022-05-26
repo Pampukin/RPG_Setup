@@ -11,4 +11,5 @@ public class ButtonController : MonoBehaviour
         // " "内に記述された名前のシーンをロードする（画面遷移）
         SceneManager.LoadScene("TitleScene");
     }
+
 }
