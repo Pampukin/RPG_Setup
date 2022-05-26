@@ -12,7 +12,7 @@ public class GameManagerBattleScene : MonoBehaviour
         Debug.Log("プレイヤーのHP：" + PlayerManager.hp);
     }
     //ボタンを押した際にExploreSceneへ移動するメソッド
-    public void ClickGoToExploreScene()
+    public void GoToExploreScene()
     {
         SceneManager.LoadScene("ExploreScene");
     }
